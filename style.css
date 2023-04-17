@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+
+  background-color: #bdf5d5;
+}
+.result{
+ border: groove black 3px;
+    height: 20px;
+    margin: 10px;
+    padding: 5px;
+  background-color: white;
+}
+input{
+  background-color: #f4adf5;
+  
+}
+img {
+  height: 50%;
+  width: 70%;
+}
